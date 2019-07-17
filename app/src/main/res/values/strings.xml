@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Alc4</string>
+    <string name="main_activity">ALC 4 Phase 1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="txtHeader">Welcome to ALC 4.0</string>
+    <string name="lblTrack">Track:</string>
+    <string name="txtAndroid">Android</string>
+    <string name="lblEmail">Email:</string>
+    <string name="lblCountry">Country</string>
+    <string name="txtCountry">Tanzania</string>
+    <string name="txtEmail">johnnielyimo@gmail.com</string>
+    <string name="lblPhone">Phone Number:</string>
+    <string name="txtPhone">0715291029</string>
+    <string name="lblSlack">Slack Username:</string>
+    <string name="txtSlack">JLee</string>
+    <string name="txtDivider">__________________________</string>
+    <string name="btnAbout">ABOUT ALC</string>
+    <string name="btnProfile">My PROFILE</string>
+    <string name="txtName">John Lyimo</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Certification Error! Give Permission.</string>
+
 </resources>
