@@ -115,7 +115,7 @@
             app:layout_constraintBaseline_toBaselineOf="@+id/textView4"/>
     <ImageView
             android:layout_width="198dp"
-            android:layout_height="167dp" app:srcCompat="@drawable/mydp"
+            android:layout_height="167dp" app:srcCompat="@mipmap/mydp_launcher_round"
             android:id="@+id/imageView2" android:layout_marginTop="24dp"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp" app:layout_constraintStart_toStartOf="parent"

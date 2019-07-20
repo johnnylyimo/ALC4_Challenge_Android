@@ -8,7 +8,7 @@
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/main_activity"
-            android:roundIcon="@mipmap/andela"
+            android:roundIcon="@mipmap/andela_launcher_foreground"
             android:supportsRtl="true"
             android:usesCleartextTraffic="true"
             android:theme="@style/AppTheme">
